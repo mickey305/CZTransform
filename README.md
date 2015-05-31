@@ -11,8 +11,9 @@ The CZT is similar to the FFT-Algorithm of the Discrete Fourier transform (used 
 * how to
 
 
-    cd {projectname}/prj/
+    cd {projectname}/prj/  
     make run
+
 
 * make command
   * make --------- [make build]
@@ -27,6 +28,8 @@ The CZT is similar to the FFT-Algorithm of the Discrete Fourier transform (used 
 
 
 * screenshot
+
+
   ![screenshot Not Found](screenshot/terminal01.png)
 
 
