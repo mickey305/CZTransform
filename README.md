@@ -8,23 +8,15 @@ The CZT is similar to the FFT-Algorithm of the Discrete Fourier transform (used 
 
 * CZTs order - O(log(n^n))
 
-* how to
-
-
-
-    cd {projectname}/prj/
-    make run
-
-
 * make command
-  * make --------- [make build]
-  * make build --- create directory(obj and bin) and compile this project
-  * make clean --- remove binary and object file(directory)
-  * make clear --- [make clean]
-  * make delete -- [make delete]
-  * make rebuild - [make clean and make build]
-  * make run ----- [make build] and execute binary file
-  * make test ---- [make run and make clean]
+  * make ------------ [make build]
+  * make build ------ create directory(obj and bin) and compile this project
+  * make clean ------ remove binary and object file(directory)
+  * make clear ------ [make clean]
+  * make delete ----- [make delete]
+  * make rebuild ---- [make clean and make build]
+  * make run -------- [make build] and execute binary file
+  * make test ------- [make run and make clean]
   * make .PHONY -- [make build and make clean]
 
 
