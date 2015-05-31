@@ -10,8 +10,10 @@ The CZT is similar to the FFT-Algorithm of the Discrete Fourier transform (used 
 
 * how to
 
-      cd {projectname}/prj/
-      make run
+
+
+    cd {projectname}/prj/
+    make run
 
 
 * make command
